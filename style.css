@@ -30,7 +30,7 @@ main{
   }
   blockquote{
     margin: auto;
-    width: 550px;
+    max-width: 550px;
   }
   #footer{
     font-weight: bold;
